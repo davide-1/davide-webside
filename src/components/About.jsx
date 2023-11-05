@@ -14,21 +14,12 @@ export default function About() {
         </div>
         {/* lorem50 */}
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Non amet
-          adipisci blanditiis dolor quasi enim deleniti, impedit sed? Beatae,
-          odio tempore? Illo, ad saepe doloribus laboriosam, totam corrupti
-          asperiores eveniet quia at similique earum quis natus, ea quas nam
-          praesentium? Sint harum ea voluptate quam aliquam, quae culpa nihil
-          tempore!
+        Hello, I'm Davide La Placa, a recent graduate of an immersive, fast-paced full-stack development bootcamp. My journey into the world of web development started with a passion for problem-solving and a desire to create meaningful digital experiences.
+        During the bootcamp, I honed my skills in both front-end and back-end development, mastering technologies such as HTML, CSS, JavaScript, Node.js, React, and more. I thrive on the challenge of turning ideas into functional, user-friendly websites and applications. My goal is to make the web a better place through clean, efficient, and elegant code.
         </p>
         <br />
         <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo omnis,
-          pariatur ipsam minima vero iure reprehenderit sequi laboriosam, nam
-          consequatur mollitia nesciunt nobis incidunt hic veritatis in
-          consectetur voluptatem. Mollitia alias labore repellendus velit
-          quaerat inventore voluptates nam veritatis vitae officiis consequatur
-          autem beatae laborum dolorum, pariatur corrupti amet soluta?
+        As a full-stack developer, I am equally comfortable working on the user interface as I am with the server-side logic. I love building dynamic web applications that engage users and deliver exceptional experiences. My dedication to continuous learning and staying up-to-date with the latest web development trends allows me to adapt to the rapidly changing tech landscape.
         </p>
       </div>
     </div>

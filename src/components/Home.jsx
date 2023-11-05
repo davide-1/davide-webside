@@ -10,7 +10,9 @@ export default function Home() {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row ">
         <div className="flex flex-col justify-center h-full">
           <h2 className=" text-4xl sm:text-7xl font-bold text-white mt-20 ">Fullstack Developer</h2>
-          <p className="text-gray-500 py-4 max-w-md">Full-Stack Developer with over 6 years of experience operating a family business gaining invaluable experience in managing a business, teamwork, critical thinking, decision-making and problem-solving.</p>
+          <p className="text-gray-500 py-4 max-w-md">
+          I believe in the power of teamwork and collaboration, and I'm excited to contribute my skills and expertise to exciting projects and opportunities.
+            </p>
           {/* <div>
             <Link 
             to="portfolio"

@@ -1,6 +1,7 @@
 import React from "react";
 import heroImage from "../assets/IMG/heroImage.jpg";
 import { BsArrowRight } from "react-icons/bs";
+import { Link } from "react-scroll"
 
 export default function Home() {
   return (
@@ -10,15 +11,17 @@ export default function Home() {
         <div className="flex flex-col justify-center h-full">
           <h2 className=" text-4xl sm:text-7xl font-bold text-white mt-20 ">Fullstack Developer</h2>
           <p className="text-gray-500 py-4 max-w-md">Full-Stack Developer with over 6 years of experience operating a family business gaining invaluable experience in managing a business, teamwork, critical thinking, decision-making and problem-solving.</p>
-          <div>
-            <button className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
+          {/* <div>
+            <Link 
+            to="portfolio"
+             className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
               Portfolio
               <span className="group-hover:rotate-90 duration-300">
                 <BsArrowRight 
                 className="ml-1"/>
               </span>
-            </button>
-          </div>
+            </Link>
+          </div> */}
         </div>
         <div>
             <img src={heroImage} 

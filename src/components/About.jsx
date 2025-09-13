@@ -13,12 +13,23 @@ export default function About() {
           </p>
         </div>
         <p className="text-xl">
-        Hello, I'm Davide La Placa, a recent graduate of an immersive, fast-paced full-stack development bootcamp. My journey into the world of web development started with a passion for problem-solving and a desire to create meaningful digital experiences.
-        During the bootcamp, I honed my skills in both front-end and back-end development, mastering technologies such as HTML, CSS, JavaScript, Node.js, React, and more. I thrive on the challenge of turning ideas into functional, user-friendly websites and applications. My goal is to make the web a better place through clean, efficient, and elegant code.
+        💻 🌟 🔧 Software Developer | Frontend-Focused | Building Modern Web Applications
         </p>
         <br />
         <p className="text-xl">
-        As a full-stack developer, I am equally comfortable working on the user interface as I am with the server-side logic. I love building dynamic web applications that engage users and deliver exceptional experiences. My dedication to continuous learning and staying up-to-date with the latest web development trends allows me to adapt to the rapidly changing tech landscape.
+        I’m Davide La Placa, a software developer passionate about building modern, responsive web applications. My expertise is in React, Next.js, TypeScript, Tailwind CSS, and Firebase, where I specialize in crafting clean, user-friendly interfaces backed by scalable code.
+        </p>
+        <br />
+        <p className="text-xl">
+        Some of my projects include a real estate app, a movie discovery platform with AI chat integration, and an e-commerce site. Each reflects my focus on performance, simplicity, and real-world usability.
+        </p>
+        <br />
+        <p className="text-xl">
+        I’m always exploring new technologies, refining my craft, and striving to deliver software that feels effortless for users and powerful under the hood.
+        </p>
+        <br />
+        <p className="text-xl">
+        
         </p>
       </div>
     </div>

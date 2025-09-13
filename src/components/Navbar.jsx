@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import {Link} from "react-scroll"
 
@@ -22,11 +22,11 @@ export default function Navbar() {
       id: 4,
       link: "contact",
     },
+    {
+      id: 3,
+      link: "portfolio",
+    },
   ];
-  // {
-  //   id: 3,
-  //   link: "portfolio",
-  // },
 
   return (
     <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
